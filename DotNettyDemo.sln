@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo.Server", "Echo.Server\Echo.Server.csproj", "{835FDA02-1CD1-4EB1-9DA4-99D3CB964971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Server", "Telnet.Server\Telnet.Server.csproj", "{A4D59F9B-7E93-4FC8-B9A1-5A29A390C4A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples.Common", "Examples.Common\Examples.Common.csproj", "{67A31ABE-09DC-4F4D-9338-066C16C1385E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835FDA02-1CD1-4EB1-9DA4-99D3CB964971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835FDA02-1CD1-4EB1-9DA4-99D3CB964971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835FDA02-1CD1-4EB1-9DA4-99D3CB964971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835FDA02-1CD1-4EB1-9DA4-99D3CB964971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D59F9B-7E93-4FC8-B9A1-5A29A390C4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D59F9B-7E93-4FC8-B9A1-5A29A390C4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D59F9B-7E93-4FC8-B9A1-5A29A390C4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D59F9B-7E93-4FC8-B9A1-5A29A390C4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
