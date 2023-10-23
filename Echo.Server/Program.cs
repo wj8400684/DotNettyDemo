@@ -13,7 +13,7 @@ ExampleHelper.SetConsoleLogger();
 var bossGroup = new MultithreadEventLoopGroup(1);
 var workerGroup = new MultithreadEventLoopGroup();
 
-X509Certificate2 tlsCertificate = null;
+X509Certificate2? tlsCertificate = null;
 if (ServerSettings.IsSsl)
 {
     tlsCertificate = new X509Certificate2(Path.Combine(ExampleHelper.ProcessDirectory, "dotnetty.com.pfx"), "password");
