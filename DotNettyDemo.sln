@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Server", "Telnet.Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples.Common", "Examples.Common\Examples.Common.csproj", "{67A31ABE-09DC-4F4D-9338-066C16C1385E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Client", "Telnet.Client\Telnet.Client.csproj", "{D576A0D2-F30F-439E-91AA-A2C7C2253841}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Client", "Telnet.Client\Telnet.Client.csproj", "{A1401835-FCCD-456A-BB8E-9F42CAC49239}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A31ABE-09DC-4F4D-9338-066C16C1385E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D576A0D2-F30F-439E-91AA-A2C7C2253841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D576A0D2-F30F-439E-91AA-A2C7C2253841}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D576A0D2-F30F-439E-91AA-A2C7C2253841}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D576A0D2-F30F-439E-91AA-A2C7C2253841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1401835-FCCD-456A-BB8E-9F42CAC49239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1401835-FCCD-456A-BB8E-9F42CAC49239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1401835-FCCD-456A-BB8E-9F42CAC49239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1401835-FCCD-456A-BB8E-9F42CAC49239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
